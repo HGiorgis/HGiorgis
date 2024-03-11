@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Canixel Art and GiorgisArt Studios**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and Laravel for Backend**
 
 - 💬 Ask me about **Tailwind css**
 
