@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hailegiorgiswagaye@gmail.com**
 
-- ⚡ Current working Project on **Recreating Telegram with PHP**
+- ⚡ Current working Project on **NO PROJECT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
