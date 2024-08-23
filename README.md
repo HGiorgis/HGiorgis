@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hailegiorgiswagaye@gmail.com**
 
-- ⚡ Current working Project on **NO PROJECT**
+- ⚡ Current working Project on **Aesop Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
